@@ -1,4 +1,4 @@
-% Andri Hail, ENGR 105, Spring 2019, HW 11
+% Andri Hail, Spring 2019
 %
 % function [V, W] = nnTrain(V0,W0,max_iter, rate)
 % Finds the optimized weights for the neural net
