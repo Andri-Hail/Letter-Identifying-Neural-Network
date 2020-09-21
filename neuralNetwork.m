@@ -1,8 +1,6 @@
-%Andri Hail, ENGR 105, Spring 2019, HW 11
-%Collaborators: None
+%Andri Hail, Spring 2019
 %
 %
-%neuralNetwork.m
 %Using nnTrain this script will train a neural network and use the results
 %to comupute statistics. The learned V and W will be tested on four vectors
 %that correspond to A, C, G and, T, 4 vectors that correspond to A,C,G,T
@@ -129,10 +127,4 @@ end
 %Displays the vector seq
 disp(seq)
 
-%% nnTrain.m
-% <include>nnTrain.m</include>
-%% plot_letters.m
-% <include>plot_letters.m</include>
-%% sigmoid.m
-% <include>sigmoid.m</include>
 
