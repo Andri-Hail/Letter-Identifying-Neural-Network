@@ -1,4 +1,4 @@
-% Andri Hail, ENGR 105, Spring 2019, HW 11
+% Andri Hail, Spring 2019
 %
 % function plot_letters(x)
 % Plots the letter associated to a 25x1 matrix by making it into a 5x5
