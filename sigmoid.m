@@ -1,4 +1,4 @@
-% Andri Hail, ENGR 105, Spring 2019, HW 11
+% Andri Hail, Spring 2019
 %
 % function s = sigmoid(x)
 % Passes each element of a column vector through the sigmoid function
@@ -10,7 +10,7 @@
 %Sets up the function
 function s = sigmoid(x)
 
-%Finds teh sigmoid of each element
+%Finds the sigmoid of each element
 s = 1./(1+exp(.5-x));
 
 end
